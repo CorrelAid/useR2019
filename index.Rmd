@@ -31,6 +31,8 @@ class: inverse, center, middle
 
 # CorrelAid e.V.
 
+## Christian Moreau, Rahel Becker, Moritz Fahrenholz, Konstantin Gavras, Navid Ghayazi, Lisa Hehnke, Verena Svenja Klar, Katharina Kloppenborg, Arndt Leininger, Johannes Müller, Friederike Preu
+
 ---
 
 ## CorrelAid e.V.
@@ -57,10 +59,9 @@ class: inverse, center, middle
 ## Use Case
 
 .pull-left[
-- **Context:** Minor is a German research institution who offers legal
-advisory for marginalised groups
+- **Context:** Minor is a German research institution who offers legal advise for marginalised groups
 
-- **Objective:** Help volunteers monitor Facebook groups organised by expats and give better guidance if needed
+- **Objective:** Helping volunteers monitor Facebook groups organised by expats
 
 - **Approach:** Build an app to classify and filter multilingual Facebook comments, including English, Bulgarian, and Arabic
 ]
@@ -70,7 +71,7 @@ advisory for marginalised groups
 ]
 
 .center[
-***Project team*** <br> Christian Moreau (lead), ..., ...
+***Project team*** <br> Christian Moreau (lead),  Moritz Fahrenholz, Navid Ghayazi, Verena Svenja Klar, Katharina Kloppenborg
 ]
 
 ---
@@ -101,13 +102,15 @@ knitr::include_graphics("images/correlaid.png")
 
 ## Impact 💥
 
-- **Minor:** Making better use of volunteers
+- **Minor:** MUtilize resourcesoprovided byvolunteers
 
-- **Policymakers:** Tracking issues of importance and making evidence-based decisions
+- **Policymakers:** Tracking irelevant issuesand mmaking vidence-based decisions
 
 - **Data scientists:** Dealing with real-world data and challenges faced by NPO organisations
 
----
+-- **Society:** Increased awareness of data-based decision making and democratization of data science
+
+--
 class: center, middle
 
 # Thanks!
